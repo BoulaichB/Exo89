@@ -17,4 +17,8 @@ console.log(sousTitre3);
 let paragraphe2 = paragraphes[1];
 console.log(paragraphe2);
 // ### 4. Après avoir récupéré tous les li, stock le 3eme li et affiche le dans un console.log
+const listItems = document.getElementsByTagName('li');
+let li3 = listItems[2];
+console.log(li3);
+
 
