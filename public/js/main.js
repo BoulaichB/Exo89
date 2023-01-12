@@ -14,7 +14,7 @@ console.log(sousTitre1);
 console.log(sousTitre2);
 console.log(sousTitre3);
 // ### 3. Après avoir récupéré tous les paragraphe, stock le second paragraphe et affiche dans un console.log
+let paragraphe2 = paragraphes[1];
+console.log(paragraphe2);
 // ### 4. Après avoir récupéré tous les li, stock le 3eme li et affiche le dans un console.log
-
-
 
